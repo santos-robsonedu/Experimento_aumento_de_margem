@@ -67,7 +67,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
   
   Obs: A alíquota do Simples Nacional é comum para todos os canais de venda.
 
-- **Desafios (ETL, Precificação e Apuração):** Para calcular o resultado de cada produto foi utilizado um script em Python para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
+- **Desafios (ETL, Precificação e Apuração):** Para sucesso do experimento, foi necessário criar soluções para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
 
   - A API do Bling ERP disponibiliza os valores das vendas e os produtos vendidos através de caminhos diferentes.
 
