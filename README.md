@@ -10,7 +10,7 @@ Este repositório contém um experimento realizado em um e-commerce varejista do
 - **Margem Atual:** Todos os produtos utilizavam uma margem de contribuição de X% até o início do experimento.
 - **Controle de Variáveis:** Não foram aplicadas ofertas ou promoções durante o período do teste.
 - **Proteção de Dados:** Alguns valores foram ocultados ou substituídos por valores sintéticos para preservar informações sensíveis.
-- **Pré-Requisitos:** Conhecimento em precificação, tributação e contabilidade é necessário para compreender completamente os resultados.
+- **Pré-Requisitos:** Conhecimentos em precificação, tributação e contabilidade são necessários para acompanhamento do experimento e completa compreensão dos resultados.
 
 **Definição de Termos:**
 
