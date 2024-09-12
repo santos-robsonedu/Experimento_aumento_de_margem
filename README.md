@@ -29,6 +29,7 @@ Avaliar o impacto no resultado da empresa de um aumento da margem de contribuiç
 - **Hipótese Alternativa (H1):** O aumento da margem de contribuição de X% para X+5% melhora o resultado final da empresa.
 
 Por impacto positivo entende-se um aumento no valor monetário do resultado da empresa.
+
 **Nível de significância:** 0,05 (5%)
 
 ## 🧪 Design do Experimento
