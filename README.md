@@ -79,7 +79,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
   -	O Bling ERP não apura o lucro de cada venda com precisão, pois não suporta o cadastro e vinculação de todos os custos possíveis para cada produto e canal de venda.
 
-  -	O Bling ERP somente disponibiliza a precificação de produtos através de markup. Para uma correta precificação dos produtos com todas as variáveis envolvidas, foi criado um scrip em Python à parte.
+  -	O Bling ERP somente disponibiliza a precificação de produtos através de markup. Para uma correta precificação dos produtos com todas as variáveis envolvidas, foi criado um script em Python à parte.
 
 Obs: Os scripts em Python (1-Calculadora e 2-Apurador de resultados) que lidam com todos esses desafios não serão apresentados neste experimento, pois são considerados uma vantagem competitiva da empresa.
 
