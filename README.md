@@ -19,9 +19,11 @@ Este repositório contém um experimento realizado em um e-commerce varejista do
 - **Margem de Contribuição:** Percentual usado para cálculo do preço de venda do produto, diferente de markup.
 - **Resultado:** Quantia que sobra do faturamento após deduzir o custo do produto e despesas variáveis.
 
+
 ## 🎯 Objetivo
 
 Avaliar o impacto no resultado da empresa de um aumento da margem de contribuição de X% para X+5%, utilizando uma lista de 1.052 produtos distintos, com diferentes valores e canais de venda.
+
 
 ## 🧩 Hipóteses
 
@@ -31,6 +33,7 @@ Avaliar o impacto no resultado da empresa de um aumento da margem de contribuiç
 Por impacto positivo entende-se um aumento no valor monetário do resultado da empresa.
 
 **Nível de significância:** 0,05 (5%)
+
 
 ## 🧪 Design do Experimento
 
@@ -45,15 +48,18 @@ A divisão foi realizada aleatoriamente com um script Python, garantindo uma sep
 
 O experimento foi conduzido por 30 dias, comparando os efeitos entre os grupos e minimizando as variações de oferta e demanda.
 
+
 ## 📊 Métrica de Avaliação
 
 A métrica utilizada foi o valor monetário no resultado final de ambos os grupos. Comparar os resultados entre o grupo de controle (X%) e o grupo de tratamento (X+5%) permitirá entender o impacto direto da alteração da margem de contribuição no Resultado final da empresa.
+
 
 ## 🚀 Execução e Coleta dos Dados
 
 - **Fonte de Dados:** API do Bling ERP (Oauth 2.0) para coleta de informações de vendas.
 - **Processamento:** Utilização de scripts Python para deduzir os custos de venda associados e calcular o resultado para cada grupo de produtos e canais de venda.
   - **Desafios:** Integração de dados de vendas e custos provenientes de diferentes fontes e formatos.
+
 
 ## 📈 Análise dos Resultados
 
@@ -67,6 +73,7 @@ Os resultados foram os seguintes:
 - **Valor p:** 3.322e-07
 
 O valor-p é menor que o nível de significância (0.05), o que indica que há uma diferença significativa no resultado entre os dois grupos.
+
 
 ## ✅ Considerações Finais
 
