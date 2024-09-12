@@ -57,9 +57,24 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
 ## 🚀 Execução e Coleta dos Dados
 
-- **Fonte de Dados:** API do Bling ERP (Oauth 2.0) para coleta de informações de vendas.
-- **Processamento:** Utilização de scripts Python para deduzir os custos de venda associados e calcular o resultado para cada grupo de produtos e canais de venda.
-  - **Desafios:** Integração de dados de vendas e custos provenientes de diferentes fontes e formatos.
+- **Fonte de Dados:** A coleta dos dados de produtos e vendas foi realizada através da API do Bling ERP (Oauth 2.0) onde todas as informações da operação da empresa estão concentradas.
+
+- **Processamento:** Para apuração do resultado foi deduzido os custos de venda de cada produto de seus respectivos canais de venda. Para cada canal de venda os custos são:
+- Custos de frete grátis.
+- Comissão de venda em %.
+- Taxa de venda em $.
+- Custo de embalagem em %. 
+
+- **Desafios:** Para calcular o resultado de cada produto foi utilizado um script em Python para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
+1-	A API do Bling ERP disponibiliza os valores vendidos e produtos vendidos através de caminhos diferentes.
+2-	A API do Bling ERP só disponibiliza as informações dos produtos no formato em que foram vendidos, por exemplo, kits não tem a sua composição detalhada.
+3-	A API do Bling ERP disponibiliza as composições de kits por um caminho diferente das informações de venda.
+4-  Apurar o valor de venda exato de cada produto para cada canal de venda.
+4-	Confrontar os valores finais com os seus respectivos Custos de Venda, para apuração do Resultado por canal de venda.
+5-	Agrupar os resultados finais apenas por produtos.
+6-	Dividir o resultado final de cada produto de acordo com seu grupo (A) ou (B).
+
+* O script em Python que lida com todos esses desafios não será descrito nesse experimento, por ser considerado uma vantagem competitiva da empresa.
 
 
 ## 📈 Análise dos Resultados
