@@ -37,7 +37,7 @@ Por impacto positivo entende-se um aumento no valor monetário do resultado da e
 ### a) Divisão dos Produtos
 
 - **Grupo de Controle (A):** 50% dos produtos mantêm a margem de contribuição original de X%.
-- **Grupo de Tratamento (B):** 50% dos produtos têm a margem de contribuição aumentada para X+5%.
+- **Grupo de Tratamento (B):** 50% dos produtos terão a margem de contribuição aumentada para X+5%.
 
 A divisão foi realizada aleatoriamente com um script Python, garantindo uma separação sem vieses. As listas dos produtos foram salvas em Excel para a precificação e análise posterior.
 
