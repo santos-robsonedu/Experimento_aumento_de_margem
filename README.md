@@ -47,7 +47,7 @@ O experimento foi conduzido por 30 dias, comparando os efeitos entre os grupos e
 
 ## 📊 Métrica de Avaliação
 
-A métrica utilizada foi o valor monetário no resultado final de ambos os grupos. A comparação entre a margem de contribuição do grupo de controle (X%) e do grupo de tratamento (X+5%) ajudou a entender o impacto da alteração na margem de contribuição no resultado da empresa.
+A métrica utilizada foi o valor monetário no resultado final de ambos os grupos. Comparar os resultados entre o grupo de controle (X%) e o grupo de tratamento (X+5%) permitirá entender o impacto direto da alteração da margem de contribuição no Resultado final da empresa.
 
 ## 🚀 Execução e Coleta dos Dados
 
