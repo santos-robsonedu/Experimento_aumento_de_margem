@@ -73,15 +73,11 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
   -	A API do Bling ERP disponibiliza as composições de kits por um caminho diferente das informações de venda.
 
-  -  Apurar o valor de venda exato de cada produto para cada canal de venda.
+  - O Bling ERP não apura o valor de venda proporcional de cada produto(no caso de kits) para cada canal de venda.
 
-  -	Confrontar os valores finais com os seus respectivos Custos de Venda, para apuração do Resultado por canal de venda.
+  -	O Bling ERP não apura o lucro de cada venda com precisão, pois não suporta o cadastro e vínculação de todos os custos possíveis para produto e canal de venda.
 
-  -	Agrupar os resultados finais apenas por produtos.
-
-  -	Dividir o resultado final de cada produto de acordo com seu grupo (A) ou (B).
-
-obs: O script em Python que lida com todos esses desafios não será descrito nesse experimento, por ser considerado uma vantagem competitiva da empresa.
+obs: O script em Python que lida com todos esses desafios não será apresentado nesse experimento, por ser considerado uma vantagem competitiva da empresa.
 
 
 ## 📈 Análise dos Resultados
