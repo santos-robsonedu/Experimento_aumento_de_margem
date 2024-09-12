@@ -94,6 +94,9 @@ Para avaliar se os resultados são estatisticamente significantes foi utilizado 
 
 O valor-p é menor que o nível de significância (0.05), o que indica que há uma diferença significativa no resultado entre os dois grupos.
 
+**Conclusão** : Rejeitamos a hipótese nula (H0). Há evidências suficientes para concluir que existe uma diferença significativa no resultado entre o Grupo de controle (A) e o Grupo de tratamento (B).
+
+
 
 ## ✅ Considerações Finais
 
