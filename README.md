@@ -87,6 +87,7 @@ O Resultado final para cada grupo foram os seguintes:
 - **Grupo A (margem de X%):** R$ 987
 - **Grupo B (margem de X+5%):** R$ 1.183
 
+Para avaliar se os resultados são estatisticamente significantes foi utilizado o Teste T.
 **Teste T:**
 - **Estatística t:** -5.138
 - **Valor p:** 3.322e-07
