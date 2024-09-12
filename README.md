@@ -23,7 +23,7 @@ Este repositório contém um experimento realizado em um e-commerce varejista do
 
 ## 🎯 Objetivo
 
-Avaliar o impacto no resultado da empresa de um aumento da margem de contribuição de X% para X+5%, utilizando uma lista de 1.052 produtos distintos, com diferentes valores e canais de venda.
+Avaliar o impacto no resultado da empresa de um aumento da margem de contribuição de X% para X+5%, utilizando uma lista de 1.052 produtos distintos, com diferentes valores e canais de venda (todos os produtos são vendidos em todos os canais de venda, sem exclusividade).
 
 
 ## 🧩 Hipóteses
