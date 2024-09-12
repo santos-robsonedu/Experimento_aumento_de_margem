@@ -65,7 +65,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
   - Comissão de venda em %.
   - Custo de embalagem em %.
   
-  Obs: A alíquota do simples nacional é comum para todos os canais de venda.
+  Obs: A alíquota do Simples Nacional é comum para todos os canais de venda.
 
 - **Desafios (ETL):** Para calcular o resultado de cada produto foi utilizado um script em Python para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
 
