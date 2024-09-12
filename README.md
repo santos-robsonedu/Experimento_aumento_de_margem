@@ -60,16 +60,16 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 - **Fonte de Dados:** A coleta dos dados de produtos e vendas foi realizada através da API do Bling ERP (Oauth 2.0) onde todas as informações da operação da empresa estão concentradas.
 
 - **Processamento:** Para apuração do resultado foi deduzido os custos de venda de cada produto de seus respectivos canais de venda. Para cada canal de venda os custos são:
-- Custos de frete grátis.
-- Comissão de venda em %.
-- Taxa de venda em $.
-- Custo de embalagem em %. 
+  - Custos de frete grátis.
+  - Comissão de venda em %.
+  - Taxa de venda em $.
+  - Custo de embalagem em %. 
 
 - **Desafios:** Para calcular o resultado de cada produto foi utilizado um script em Python para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
 
   1-	A API do Bling ERP disponibiliza os valores vendidos e produtos vendidos através de caminhos diferentes.
 
-    2-	A API do Bling ERP só disponibiliza as informações dos produtos no formato em que foram vendidos, por exemplo, kits não tem a sua composição detalhada.
+  2-	A API do Bling ERP só disponibiliza as informações dos produtos no formato em que foram vendidos, por exemplo, kits não tem a sua composição detalhada.
 
 3-	A API do Bling ERP disponibiliza as composições de kits por um caminho diferente das informações de venda.
 
