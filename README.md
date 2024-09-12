@@ -59,7 +59,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
 - **Fonte de Dados:** A coleta dos dados de produtos e vendas foi realizada através da API do Bling ERP (Oauth 2.0) onde todas as informações da operação da empresa estão concentradas.
 
-- **Processamento:** Para apuração do resultado foi deduzido os custos de venda de cada produto de seus respectivos canais de venda. Para cada canal de venda os custos são:
+- **Processamento:** Para apuração do resultado foram deduzidos os custos de venda de cada produto de acordo com seus respectivos canais de venda. Para cada canal de venda os custos são:
   - Custos de frete grátis.
   - Comissão de venda em %.
   - Taxa de venda em $.
