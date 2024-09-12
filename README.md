@@ -77,7 +77,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
   - O Bling ERP não apura o valor de venda proporcional de cada produto(no caso de kits) para cada canal de venda.
 
-  -	O Bling ERP não apura o lucro de cada venda com precisão, pois não suporta o cadastro e vínculação de todos os custos possíveis para produto e canal de venda.
+  -	O Bling ERP não apura o lucro de cada venda com precisão, pois não suporta o cadastro e vinculação de todos os custos possíveis para produto e canal de venda.
 
 Obs: O script em Python que lida com todos esses desafios não será apresentado nesse experimento, por ser considerado uma vantagem competitiva da empresa.
 
