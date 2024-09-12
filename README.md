@@ -86,7 +86,7 @@ Obs: Os scripts em Python (1-ETL, 2-Precificação e 3-Apuração) que lidam com
 <br><br>
 ## 📈 Análise dos Resultados
 
-O Resultado final para cada grupo foram os seguintes:
+O Resultado final apurado para cada grupo foram os seguintes:
 
 - **Grupo A (margem de X%):** R$ 987
 - **Grupo B (margem de X+5%):** R$ 1.183
