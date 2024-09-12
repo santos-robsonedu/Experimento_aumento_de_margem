@@ -79,7 +79,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
   -	O Bling ERP não apura o lucro de cada venda com precisão, pois não suporta o cadastro e vinculação de todos os custos possíveis para cada produto e canal de venda.
 
-Obs: O script em Python que lida com todos esses desafios não será apresentado nesse experimento, por ser considerado uma vantagem competitiva da empresa.
+Obs: O script em Python que lida com todos esses desafios não será apresentado neste experimento, pois é considerado uma vantagem competitiva da empresa.
 
 <br><br>
 ## 📈 Análise dos Resultados
