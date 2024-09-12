@@ -67,9 +67,9 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
 - **Desafios:** Para calcular o resultado de cada produto foi utilizado um script em Python para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
 
-1-	A API do Bling ERP disponibiliza os valores vendidos e produtos vendidos através de caminhos diferentes.
+  1-	A API do Bling ERP disponibiliza os valores vendidos e produtos vendidos através de caminhos diferentes.
 
-2-	A API do Bling ERP só disponibiliza as informações dos produtos no formato em que foram vendidos, por exemplo, kits não tem a sua composição detalhada.
+    2-	A API do Bling ERP só disponibiliza as informações dos produtos no formato em que foram vendidos, por exemplo, kits não tem a sua composição detalhada.
 
 3-	A API do Bling ERP disponibiliza as composições de kits por um caminho diferente das informações de venda.
 
