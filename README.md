@@ -65,7 +65,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
   - Taxa de venda em $.
   - Custo de embalagem em %. 
 
-- **Desafios:** Para calcular o resultado de cada produto foi utilizado um script em Python para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
+- **Desafios (ETL):** Para calcular o resultado de cada produto foi utilizado um script em Python para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
 
   - A API do Bling ERP disponibiliza os valores vendidos e produtos vendidos através de caminhos diferentes.
 
