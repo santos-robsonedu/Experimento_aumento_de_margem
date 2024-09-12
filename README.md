@@ -81,7 +81,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
   -	Dividir o resultado final de cada produto de acordo com seu grupo (A) ou (B).
 
-* O script em Python que lida com todos esses desafios não será descrito nesse experimento, por ser considerado uma vantagem competitiva da empresa.
+obs: O script em Python que lida com todos esses desafios não será descrito nesse experimento, por ser considerado uma vantagem competitiva da empresa.
 
 
 ## 📈 Análise dos Resultados
