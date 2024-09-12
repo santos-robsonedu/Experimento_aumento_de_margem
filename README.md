@@ -82,7 +82,7 @@ obs: O script em Python que lida com todos esses desafios não será apresentado
 
 ## 📈 Análise dos Resultados
 
-Os resultados foram os seguintes:
+O Resultado final para cada grupo foram os seguintes:
 
 - **Grupo A (margem de X%):** R$ 987
 - **Grupo B (margem de X+5%):** R$ 1.183
