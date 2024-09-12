@@ -1,4 +1,4 @@
-# Experimento: Aumento da Margem de Contribuição em E-commerce Varejista
+# Experimento: Aumento da margem de contribuição em e-commerce varejista
 
 <br><br>
 ## 📋 Descrição
