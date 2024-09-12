@@ -67,19 +67,19 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
 - **Desafios:** Para calcular o resultado de cada produto foi utilizado um script em Python para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
 
-  1-	A API do Bling ERP disponibiliza os valores vendidos e produtos vendidos através de caminhos diferentes.
+  - A API do Bling ERP disponibiliza os valores vendidos e produtos vendidos através de caminhos diferentes.
 
-  2-	A API do Bling ERP só disponibiliza as informações dos produtos no formato em que foram vendidos, por exemplo, kits não tem a sua composição detalhada.
+  - A API do Bling ERP só disponibiliza as informações dos produtos no formato em que foram vendidos, por exemplo, kits não tem a sua composição detalhada.
 
-3-	A API do Bling ERP disponibiliza as composições de kits por um caminho diferente das informações de venda.
+  -	A API do Bling ERP disponibiliza as composições de kits por um caminho diferente das informações de venda.
 
-4-  Apurar o valor de venda exato de cada produto para cada canal de venda.
+  -  Apurar o valor de venda exato de cada produto para cada canal de venda.
 
-5-	Confrontar os valores finais com os seus respectivos Custos de Venda, para apuração do Resultado por canal de venda.
+  -	Confrontar os valores finais com os seus respectivos Custos de Venda, para apuração do Resultado por canal de venda.
 
-6-	Agrupar os resultados finais apenas por produtos.
+  -	Agrupar os resultados finais apenas por produtos.
 
-7-	Dividir o resultado final de cada produto de acordo com seu grupo (A) ou (B).
+  -	Dividir o resultado final de cada produto de acordo com seu grupo (A) ou (B).
 
 * O script em Python que lida com todos esses desafios não será descrito nesse experimento, por ser considerado uma vantagem competitiva da empresa.
 
