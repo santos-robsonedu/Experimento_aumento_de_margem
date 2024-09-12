@@ -18,7 +18,7 @@ Este repositório contém um experimento realizado em um e-commerce varejista do
 - **Simples Nacional:** Regime tributário onde a alíquota é aplicada sobre o faturamento total, favorecendo operações focadas em lucratividade.
 - **Faturamento:** Valor total vendido, incluindo valores de produtos, fretes e despesas adicionais.
 - **Margem de Contribuição:** Percentual usado para cálculo do preço de venda do produto, diferente de markup.
-- **Resultado:** Quantia que sobra do faturamento após deduzir o custo do produto e despesas variáveis.
+- **Resultado:** Para esse experimento foi considerada a quantia que sobra do Faturamento após deduzir o custo do produto e despesas variáveis.
 
 
 ## 🎯 Objetivo
