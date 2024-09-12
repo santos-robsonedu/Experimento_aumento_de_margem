@@ -20,12 +20,12 @@ Este repositório contém um experimento realizado em um e-commerce varejista do
 - **Margem de Contribuição:** Percentual usado para cálculo do preço de venda do produto, diferente de markup.
 - **Resultado:** Para esse experimento foi considerado o valor do faturamento menos o custo dos produtos e despesas variáveis.
 
-
+<br><br>
 ## 🎯 Objetivo
 
 Avaliar o impacto no resultado da empresa de um aumento da margem de contribuição de X% para X+5%, utilizando uma lista de 1.052 produtos distintos, com diferentes valores e canais de venda (todos os produtos são vendidos em todos os canais de venda, sem exclusividade).
 
-
+<br><br>
 ## 🧩 Hipóteses
 
 - **Hipótese Nula (H0):** O aumento da margem de contribuição de X% para X+5% **NÃO** tem impacto positivo significativo no resultado final da empresa.
@@ -35,7 +35,7 @@ Por impacto positivo entende-se um aumento no valor monetário do resultado da e
 
 **Nível de significância:** 0,05 (5%)
 
-
+<br><br>
 ## 🧪 Design do Experimento
 
 ### a) Divisão dos Produtos
@@ -49,12 +49,12 @@ A divisão foi realizada aleatoriamente com um script Python, garantindo uma sep
 
 O experimento foi conduzido por 30 dias, com objetivo de minimizar os efeitos entre os grupos e as variações de oferta e demanda.
 
-
+<br><br>
 ## 📊 Métrica de Avaliação
 
 A métrica utilizada foi o valor monetário no resultado final de ambos os grupos. Comparar os resultados entre o grupo de controle (X%) e o grupo de tratamento (X+5%) permitirá entender o impacto direto da alteração da margem de contribuição no resultado final da empresa.
 
-
+<br><br>
 ## 🚀 Execução e Coleta dos Dados
 
 - **Fonte de Dados:** A coleta dos dados de produtos e vendas foi realizada através da API do Bling ERP (Oauth 2.0) onde todas as informações da operação da empresa estão concentradas.
@@ -79,7 +79,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
 obs: O script em Python que lida com todos esses desafios não será apresentado nesse experimento, por ser considerado uma vantagem competitiva da empresa.
 
-
+<br><br>
 ## 📈 Análise dos Resultados
 
 O Resultado final para cada grupo foram os seguintes:
@@ -96,8 +96,7 @@ O valor-p é menor que o nível de significância (0.05), o que indica que há u
 
 **Conclusão** : Rejeitamos a hipótese nula (H0). Há evidências suficientes para concluir que o resultado do Grupo de tratamento (margem de contribuição X+5%) é significante maior que o resultado do Grupo de controle (margem de contribuição X%).
 
-
-
+<br><br>
 ## ✅ Considerações Finais
 
 Após confirmar que o aumento na margem de contribuição gerou um aumento significativo no resultado, a empresa passou a adotar essa nova margem de contribuição para precificação padrão. Nos meses subsequentes foi observado que o resultado da empresa não recuou (empresas com um mix de produtos limitado ou com demanda altamente sensível ao preço, provavelmente não alcançarão resultados similares).
