@@ -65,7 +65,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
   - Comissão de venda em %.
   - Custo de embalagem em %.
   
-  obs: A alíquota do simples nacional é comum para todos os canais de venda.
+  Obs: A alíquota do simples nacional é comum para todos os canais de venda.
 
 - **Desafios (ETL):** Para calcular o resultado de cada produto foi utilizado um script em Python para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
 
@@ -79,7 +79,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
   -	O Bling ERP não apura o lucro de cada venda com precisão, pois não suporta o cadastro e vínculação de todos os custos possíveis para produto e canal de venda.
 
-obs: O script em Python que lida com todos esses desafios não será apresentado nesse experimento, por ser considerado uma vantagem competitiva da empresa.
+Obs: O script em Python que lida com todos esses desafios não será apresentado nesse experimento, por ser considerado uma vantagem competitiva da empresa.
 
 <br><br>
 ## 📈 Análise dos Resultados
