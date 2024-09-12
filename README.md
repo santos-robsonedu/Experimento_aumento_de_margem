@@ -6,7 +6,7 @@ Este repositório contém um experimento realizado em um e-commerce varejista do
 
 **Pontos Relevantes:**
 
-- **Contexto:** O experimento foi conduzido em um e-commerce varejista com vários canais de venda e um mix de produtos variável.
+- **Contexto:** O experimento foi conduzido em um e-commerce varejista com vários canais de venda e um amplo mix de produtos.
 - **Margem Atual:** Todos os produtos utilizavam uma margem de contribuição de X% até o início do experimento.
 - **Controle de Variáveis:** Não foram aplicadas ofertas ou promoções durante o período do teste.
 - **Proteção de Dados:** Alguns valores foram ocultados ou substituídos por valores sintéticos para preservar informações sensíveis.
