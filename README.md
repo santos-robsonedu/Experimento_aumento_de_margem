@@ -3,7 +3,7 @@
 <br><br>
 ## 📋 Descrição
 
-Este repositório contém um experimento realizado em um e-commerce varejista do Simples Nacional para avaliar o impacto de um aumento na margem de contribuição. O objetivo é entender como a alteração dessa margem pode influenciar o resultado financeiro da empresa.
+Este repositório contém um experimento realizado em um e-commerce varejista do Simples Nacional, avaliando o impacto de um aumento da margem de contribuição na precificação dos produtos. O objetivo é entender como a alteração dessa margem pode influenciar o resultado financeiro da empresa.
 
 **Pontos Relevantes:**
 
