@@ -61,7 +61,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
 - **Processamento:** Para apuração do resultado, foram deduzidos os custos de venda de cada produto de acordo com seus respectivos canais de venda. Para cada canal de venda os custos são:
   - Custo de frete grátis em $.
-  - Taxa de venda em $
+  - Taxas de venda em $
   - Comissão de venda em %.
   - Custo de embalagem em %.
   
