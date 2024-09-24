@@ -71,6 +71,8 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 - **Desafios (ETL, Precificação e Apuração):** Para sucesso do experimento, foi necessário criar soluções para lidar com uma série de situações não suportadas nativamente pelo Bling ERP:
 
   - A API do Bling ERP disponibiliza os valores das vendas e os produtos vendidos através de caminhos diferentes.
+ 
+  - A API do Bling ERP disponibiliza o custo dos produtos vendidos através de caminho diferente das vendas.
 
   - A API do Bling ERP só disponibiliza as informações dos produtos no formato em que foram vendidos, por exemplo, kits não tem a sua composição detalhada.
 
