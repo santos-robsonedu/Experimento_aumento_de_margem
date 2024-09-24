@@ -64,6 +64,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
   - Taxas de venda em R$
   - Comissão de venda em %.
   - Custo de embalagem em %.
+  - Impostos em %.
   
   Obs: A alíquota do Simples Nacional é comum para todos os canais de venda.
 
