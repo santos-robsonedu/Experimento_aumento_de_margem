@@ -76,7 +76,7 @@ A métrica utilizada foi o valor monetário no resultado final de ambos os grupo
 
   -	A API do Bling ERP disponibiliza as composições de kits por um caminho diferente das informações de venda.
 
-  - O Bling ERP não apura o valor de venda proporcional de cada produto(no caso de kits) para cada canal de venda.
+  - O Bling ERP não apura o valor de venda proporcional de cada produto (no caso de kits) para cada canal de venda.
 
   -	O Bling ERP não apura o lucro de cada venda com precisão, pois não suporta o cadastro e vinculação de todos os custos possíveis para cada produto e canal de venda.
 
