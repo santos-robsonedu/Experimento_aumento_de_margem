@@ -1,4 +1,5 @@
 # Objetivo do Arquivo
+__
 
 Este arquivo foi criado para registrar todas as informações essenciais para o processo de precificação de produtos e posterior apuração dos resultados, utilizando a API do Bling ERP. Ele inclui parâmetros detalhados sobre os custos e cobranças aplicáveis em cada canal de venda para cada grupo de produtos.
 
