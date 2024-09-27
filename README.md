@@ -53,7 +53,7 @@ A divisão foi realizada aleatoriamente com um script em Python, garantindo uma 
 
 ### b) Período de Análise
 
-O experimento foi conduzido por 30 dias para ambos os grupos simultaneamente, com objetivo de minimizar as variações de oferta e demanda.
+O experimento foi conduzido por 30 dias para ambos os grupos simultaneamente, com objetivo de minimizar o efeito das variações de oferta e demanda nas vendas.
 
 <br><br>
 ## 📊 Métrica de Avaliação
