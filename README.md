@@ -1,7 +1,7 @@
 # Experimento: Aumento da margem de contribuição em e-commerce varejista
 <br><br>
 ## 🌐 Contexto e Motivação
-
+ 
 Em um cenário de alta concorrência no varejo online, onde as pressões por preços baixos são intensas e por vezes até inconsequentes, a busca por uma operação cada vez mais lucrativa se torna um objetivo constante e fundamental para a sobrevivência e expansão do negócio. Para empresas enquadradas no Simples Nacional, que favorece operações focadas em lucratividade, é crucial desenvolver estratégias de precificação que proporcionem uma vantagem competitiva através da busca constante do aumento da rentabilidade. 
 
 Esse contexto é fundamental para entender a importância do experimento e seu impacto potencial nos resultados da empresa.
