@@ -110,6 +110,45 @@ O valor-p é menor que o nível de significância (0.05), o que indica que há u
 
 **Conclusão** : Rejeitamos a hipótese nula (H0). Há evidências suficientes para concluir que o resultado do Grupo de tratamento (margem de contribuição X+5%) é significante maior que o resultado do Grupo de controle (margem de contribuição X%).
 
+**Conclusões Adicionais** : ### Considerações Adicionais sobre os Resultados
+
+#### Variabilidade dos Resultados
+
+O desvio padrão do resultado por produto no Grupo B (**R$ 1,27**) foi ligeiramente superior ao do Grupo A (**R$ 1,08**). Isso indica uma variação um pouco maior nos resultados individuais dos produtos que receberam a nova margem (Grupo B), o que pode ser comum quando se altera uma variável como a margem de precificação. No entanto, apesar dessa maior dispersão, o aumento observado na média de resultado do Grupo B foi substancial o suficiente para que a diferença se mostrasse estatisticamente significante, superando o efeito da variabilidade.
+
+#### Impacto Prático: Intervalo de Confiança para a Diferença
+
+Para além da significância estatística, é importante quantificar a magnitude provável do efeito da nova margem no mundo real. Para isso, podemos estimar um intervalo de confiança de 95% para a verdadeira diferença no resultado médio por produto entre os grupos (µʙ - µᴀ):
+
+1.  **Diferença observada nas médias (X̄ʙ - X̄ᴀ):**
+    R$ 2,25 - R$ 1,88 = **R$ 0,37**
+
+2.  **Erro Padrão da Diferença (SE_diff):**
+    Este valor é derivado da estatística t e dos dados amostrais. Usando a sua estatística t:
+    SE_diff = |Diferença Observada / Estatística t|
+    SE_diff = R$ 0,37 / 5.138 ≈ **R$ 0,072**
+
+3.  **Cálculo do Intervalo de Confiança de 95%:**
+    Para amostras grandes (como N ≈ 526 por grupo), podemos usar o multiplicador z de aproximadamente 1.96.
+    Intervalo = Diferença Observada ± (Multiplicador z * SE_diff)
+    Intervalo = R$ 0,37 ± (1.96 * R$ 0,072)
+    Intervalo = R$ 0,37 ± R$ 0,14112
+
+4.  **Intervalo de Confiança de 95% para (µʙ - µᴀ):**
+    **[R$ 0,22888; R$ 0,51112]**
+
+Arredondando para fins práticos (duas ou três casas decimais):
+**IC 95%: [R$ 0,23; R$ 0,51]** ou **[R$ 0,229; R$ 0,511]**
+
+**Interpretação do Intervalo de Confiança:**
+Com 95% de confiança, podemos afirmar que o aumento da margem de contribuição de X% para X+5% leva a um aumento no resultado médio *por produto* que está entre **R$ 0,23 e R$ 0,51**, em comparação com a margem X%.
+
+Crucialmente, este intervalo:
+*   **Não inclui o valor zero:** Isso significa que é muito improvável que não haja diferença entre os grupos.
+*   **Está inteiramente do lado positivo:** Isso indica que o efeito é um aumento no resultado.
+
+Esses achados reforçam a conclusão de que o efeito da mudança na margem de contribuição não só é estatisticamente significativo, mas também representa um ganho prático e positivo para o resultado da empresa.
+
 <br><br>
 ## ✅ Considerações Finais
 
