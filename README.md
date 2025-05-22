@@ -110,6 +110,7 @@ O valor-p é menor que o nível de significância (0.05), o que indica que há u
 
 **Conclusão** : Rejeitamos a hipótese nula (H0). Há evidências suficientes para concluir que o resultado do Grupo de tratamento (margem de contribuição X+5%) é significante maior que o resultado do Grupo de controle (margem de contribuição X%).
 
+<br><br>
 **Conclusões dicionais sobre os Resultados** :
 
 #### Variabilidade dos Resultados
