@@ -97,8 +97,8 @@ Obs: Os scripts em Python (1-ETL, 2-Precificação e 3-Apuração) que lidam com
 
 O Resultado final apurado para as vendas de cada grupo foram os seguintes:
 
-- **Grupo A (margem de X%):** R$ 987
-- **Grupo B (margem de X+5%):** R$ 1.183
+- **Grupo A (margem de X%):** Lucro Total = R$ 987,00. Lucro Médio por Produto = R$ 1,88. Desvio Padrão = R$ 1,08.
+- **Grupo B (margem de X+5%):**Lucro Total = R$ 1.183,00. Lucro Médio por Produto = R$ 2,25. Desvio Padrão = R$ 1,27.
 
 Para avaliar se os resultados são estatisticamente significantes foi utilizado o Teste T.
 
